@@ -1,0 +1,32 @@
+.sectionTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.toggleText{
+    color: var(--color-primary);
+    cursor: pointer;
+}
+
+.sectionInnerWrapper{
+    margin-top: 18px;
+}
+
+.showAllWrapper{
+    width: 100%;
+    overflow: hidden;
+    gap: 40px; 
+    display: flex;
+    flex-wrap: wrap;  
+}
+
+.progressBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.cardsWrapper{
+    margin-top: 30px;
+}

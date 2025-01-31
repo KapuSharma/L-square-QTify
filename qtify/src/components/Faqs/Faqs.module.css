@@ -1,0 +1,27 @@
+.faqs{
+    width: 100vw;
+    height: 345px;
+    border-radius: 10px 10px;
+    /* opacity: 0px; */
+    margin: auto;
+    }
+    .heading{
+        text-align: center;
+        color:#ffffff;
+    }
+    .accordian{
+        /* width: 100vw; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    @media screen and (max-width:992px) {
+        .faqs{
+            margin: auto;
+            width: fit-content;
+            height: fit-content;
+            margin-bottom: 10px;
+        }
+    }

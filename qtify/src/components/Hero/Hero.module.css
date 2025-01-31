@@ -1,0 +1,16 @@
+.hero{
+  background-color: var(--color-dark);
+height: 270px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+gap: 30px;
+color: #FFFFFF;
+}
+
+@media screen and (max-width: 576px){
+h1{
+  font-weight: 100;
+}
+}

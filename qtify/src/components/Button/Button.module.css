@@ -1,0 +1,21 @@
+.button{
+  background-color: var(--color-dark);
+  color: #34C94B;
+  height: 35px;
+  border-radius: 5px;
+  width: 170px; 
+  height: 47px; 
+  padding: 10px 16px 10px 16px;
+  border-radius: 12px;
+  border-width: 1px 0px 0px 0px; 
+  border-style: solid; 
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0.25px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  cursor: pointer;
+}

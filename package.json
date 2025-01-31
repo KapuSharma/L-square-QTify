@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "@mui/icons-material": "^6.4.2",
+    "@mui/material": "^6.4.2",
+    "axios": "^1.7.9",
+    "react-router-dom": "^7.1.4",
+    "react-scripts": "^5.0.1",
+    "swiper": "^11.2.2",
     "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }

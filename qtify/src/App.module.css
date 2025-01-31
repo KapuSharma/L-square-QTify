@@ -1,0 +1,15 @@
+.sectionWrapper{
+    padding: 0px 60px 30px; 
+    display: flex;
+    flex-direction: column;
+    gap:32px; 
+  }
+  hr{
+    width: 100%;
+    background-color: #34C94B;
+  }
+  @media screen and (min-width: 992px){
+    .mobileSearch{
+      display: none;
+    }
+  }
