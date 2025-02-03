@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { useAutocomplete } from "@mui/base/useAutocomplete";
 import styles from "./Search.module.css"
-import SearchIcon from "../SearchIcon/SearchIcon";
+import SearchIcon from "../SearchIcon/SearchIcon.jsx";
 
 const Search = () => {
   const {
